@@ -2,7 +2,7 @@
 ### Features
 - Low-latency wireless connectivity through Bluetooth 5
 - Screen for configuration and displaying images
-- WebUi through hosted WLAN webserver
+- WebUi through MCU hosted WLAN webserver
 - Configurable bindings
 - SOCD support
 ### Disclaimer
